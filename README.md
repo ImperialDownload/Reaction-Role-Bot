@@ -7,7 +7,9 @@ Discord bot that adds/removes roles according to reactions
 3. Create rroles.csv and place the **custom** emote and role ID like this:
 
 > reaction,role
+>
 > emote_1,000000000001
+>
 > emote_2,000000000002
 
 4. Run reactionRoleBot.py
